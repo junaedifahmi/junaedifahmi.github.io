@@ -1,6 +1,6 @@
 ---
 title: Catatan Pojok Cafe
-draft: 
+draft: false
 publish: true
 tags:
   - ngahuljen

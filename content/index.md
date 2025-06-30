@@ -1,44 +1,27 @@
 ---
-title: Welcome to Juna's Space
-enableToc: "True"
+title: It's Juna's Space
+enableToc: true
+tags:
+  - ai
+  - llm
+  - ngahuljen
+  - projects
 ---
-Hi there, I thought you might want to see me from another perspective. This is my space, my safe space. In this space I would like to  
+
+Hi there, I thought you might want to see me from my lens. This is my space, you have successfully enter the first step to be part of my life. Below you can read me from several spaces. If you would like to contact me directly, do not hesitate to connect with me. 
+
+
 
 <div class="grid-container">
-
-<a href="AllGatekeepers" class="grid-item type-1">
-<div class="icon"><img src="/assets/picture.png" alt="gatekeepers" style="width: 50px; height: 50px;"></div>
-<div class="title">Gatekeepers</div>
-<div class="description">All the characters in the game.</div>
+<a href="tags/ai" class="grid-item">
+<div class="icon"><img src="/assets/juna_ai_engineer.jpeg" alt="ai" ></div>
+<div class="title">AI Engineering</div>
+<div class="description">All Artificial Intelligent related content.</div>
 </a>
 
-<a href="[[FAQ]]" class="grid-item type-2">
-<div class="icon">❓</div>
-<div class="title">FAQ</div>
-<div class="description">Frequently asked questions about the Gatekeepers game.</div>
-</a>
-
-<a href="AllArtifacts" class="grid-item type-3">
-<div class="icon"><img src="/assets/picture.png" alt="items" style="width: 50px; height: 50px;"></div>
-<div class="title">Artifacts</div>
-<div class="description">A database of all the items in the game and how to unlock them.</div>
-</a>
-
-<a href="Achievements" class="grid-item type-4">
-<div class="icon">👑</div>
-<div class="title">Achievements</div>
-<div class="description">Achievements, what they unlock and tips on how to accomplish them.</div>
-</a>
-
-<a href="AllMonsters" class="grid-item type-5">
-<div class="icon"><img src="/assets/picture.png" alt="Monsters" style="width: 50px; height: 50px;"></div>
-<div class="title">Monsters</div>
-<div class="description">Careful where you step.</div>
-</a>
-
-<a href="PatchNotes" class="grid-item type-6">
-<div class="icon">📋</div>
-<div class="title">Patch Notes</div>
-<div class="description">All patchnotes since the game became purchasable.</div>
+<a href="/tags/ngahuljen" class="grid-item">
+<div class="icon"><img src="/assets/juna_the_thinker.jpg" alt="items"></div>
+<div class="title">Pojok Pikir</div>
+<div class="description">All of my thoughts and ideas.</div>
 </a>
 </div>

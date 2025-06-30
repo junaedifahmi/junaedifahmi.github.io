@@ -1,6 +1,6 @@
 ---
 title: OnlyWriting
-draft: 
+draft: false
 publish: true
 tags:
   - ngahuljen
