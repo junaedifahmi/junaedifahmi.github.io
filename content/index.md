@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Juna's Space
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi there, I thought you might want to see me from another perspective. This is my space, my safe space. In this space I would like to  
