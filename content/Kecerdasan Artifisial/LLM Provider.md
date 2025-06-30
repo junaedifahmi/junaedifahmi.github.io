@@ -1,5 +1,5 @@
 ---
-title: "LLM Provider Comparison: Speed Matters"
+title: "LLM Server Comparison: Speed Matters"
 draft: false
 publish: true
 tags:
@@ -7,4 +7,15 @@ tags:
   - llm
   - projects
 ---
-The llm provider refers to a program that can turn a LLM models into a web service. There is a widely spread standard on llm provider, 
+The llm server refers to a program that change LLM model into a web service.  There’s widely known program that serve this purpose, namely Ollama, vLLM and llama.cpp. These three program can give the standard API interface for the LLM models.
+
+## OpenAI Standard API
+
+## Ollama
+
+## vLLM
+
+## llama.cpp 
+
+
+
