@@ -1,0 +1,1 @@
+Tempat duduk yang sangat strategis. Disana kita bisa melihat seantero cafe dari pintu masuk di sebelah kiri, hingga ke toilet di ujung kanan. 
