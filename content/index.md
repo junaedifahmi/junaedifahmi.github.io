@@ -13,15 +13,17 @@ Hi there, I thought you might want to see me from my lens. This is my space, you
 
 
 <div class="grid-container">
-<a href="tags/ai" class="grid-item">
-<div class="icon"><img src="/assets/juna_ai_engineer.jpeg" alt="ai" ></div>
-<div class="title">AI Engineering</div>
-<div class="description">All Artificial Intelligent related content.</div>
-</a>
+  <a href="tags/ai" class="grid-item">
+    <div class="icon">
+      <img src="/assets/juna_ai_engineer.jpeg" alt="ai" style></div>
+      <div class="title">AI Engineering</div>
+    <div class="description">All Artificial Intelligent related content.</div>
+  </a>
 
-<a href="/tags/ngahuljen" class="grid-item">
-<div class="icon"><img src="/assets/juna_the_thinker.jpg" alt="items"></div>
-<div class="title">Pojok Pikir</div>
-<div class="description">All of my thoughts and ideas.</div>
-</a>
+  <a href="/tags/ngahuljen" class="grid-item">
+    <div class="icon">
+      <img src="/assets/juna_the_thinker.jpg" alt="tags:ngahuljen"></div>
+      <div class="title">Pojok Pikir</div>
+    <div class="description">All of my thoughts and ideas.</div>
+  </a>
 </div>
