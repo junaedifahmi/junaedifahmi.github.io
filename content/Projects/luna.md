@@ -1,6 +1,7 @@
 ---
-title: Example Title
+title: Luna
 publish: false
 tags:
   - example-tag
+draft: true
 ---
