@@ -25,7 +25,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Ruang-ruang"
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -42,7 +44,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Ruang-ruang"
+    }),
   ],
   right: [],
 }
