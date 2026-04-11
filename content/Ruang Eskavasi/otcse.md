@@ -1,13 +1,15 @@
 ---
-title: Example Title
+title: Optimal Transport with Class Structure Exploration for Domain Adaptation in Speech Emotion Recognition
 publish: true
 tags:
   - review
+  - uda
 enableToc: true
 ---
-# Paper Title
+# Optimal Transport
 
 ## Paper Abstract
+
 
 ## Bib Citation
 ```bibtex

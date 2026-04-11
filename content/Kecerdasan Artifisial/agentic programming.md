@@ -31,7 +31,6 @@ Sebuah AI Agent selalu memiliki Goal, yaitu tujuan dibuatnya agent tersebut. Bia
     Sebuah agent dapat dilengkapi dengan tools. Tools ini merupakan bagian terkecil (atomic) dari system. Artinya satu tools seharusnya hanya melakukan satu tugas. Tugas yang dimaksud di sini adalah satu prosedur atau satu langkah prosedural yang memberikan hasil secara langsung. Tools hanya menjadi eksekutor sedangkan LLM sebagai otak yang harus membuat keputusan dan informasi yang sesuai.
 	Pada dasarnya tools adalah sebuah fungsi dalam programming. Fungsi tersebut dapat mengambil argument yang dibutuhkan, dan mengembalikan nilai. Nilai ini kemudian dikembalikan kepada AI model sehingga AI model dapat membuat keputusan.
     
-
 ## ReAct Agent
 
 Reason & Action Agent adalah salah satu jenis agent yang menerapkan konsep lengkap. Agent yang telah diberi persona (prompt), akan melakukan reasoning dan kemudian melakukan action. Action tersebut dapat berupa memberikan response, atau mengeksekusi satu atau beberapa tools. Konsep ReAct Agent ini merupakan hal mendasar yang kemudian akan digunakan untuk beberapa aplikasi dalam chatbot.

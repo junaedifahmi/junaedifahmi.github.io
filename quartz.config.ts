@@ -8,10 +8,12 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "juna"
+      
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "id-ID",
+    baseUrl: "junaedifahmi.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
