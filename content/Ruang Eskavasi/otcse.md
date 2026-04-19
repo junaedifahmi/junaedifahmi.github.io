@@ -6,7 +6,7 @@ tags:
   - uda
 enableToc: true
 ---
-# Optimal Transport
+# Optimal Transport with Class Structure Exploration for Domain Adaptation in Speech Emotion Recognition
 
 ## Paper Abstract
 
