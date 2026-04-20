@@ -1,6 +1,6 @@
 ---
 title: "MK-UNet: Multi-kernel Lightweight CNN for Medical Image Segmentation"
-publish: false
+publish: true
 tags:
   - review
   - computer-vision
