@@ -3,6 +3,7 @@ title: Example Title
 publish: false
 tags:
   - review
+draft: true
 ---
 # Paper Title
 
